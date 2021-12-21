@@ -2,13 +2,13 @@
 <rss version="2.0">
 
 <channel>
-  <title>Canal 1</title>
+  <title>Canal RSS Fruteria</title>
   <link>https://www.w3schools.com</link>
   <description>Primer canal</description>
   <item>
-    <title>Canal 2</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>Segundo canal</description>
+    <title>¡Nueva oferta!</title>
+    <link>https://joseluistb102.github.io/paginalenguajes/pagina/Producto.html</link>
+    <description>¡Las manzanas estan en oferta! ¡No te pierdas esta ganga!</description>
   </item>
   <item>
     <title>Canal 3</title>

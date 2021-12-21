@@ -4,16 +4,16 @@
 <channel>
   <title>Canal RSS Fruteria</title>
   <link>https://www.w3schools.com</link>
-  <description>Primer canal</description>
+  <description>Se lanza el canal RSS de la Fruteria</description>
   <item>
     <title>¡Nueva oferta!</title>
     <link>https://joseluistb102.github.io/paginalenguajes/pagina/Producto.html</link>
     <description>¡Las manzanas estan en oferta! ¡No te pierdas esta ganga!</description>
   </item>
   <item>
-    <title>Canal 3</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>Tercer canal</description>
+    <title>Añadida localizacion de nuestra tienda</title>
+    <link>https://joseluistb102.github.io/paginalenguajes/pagina/Contacto.html</link>
+    <description>Ahora podras ver donde nos encontramos a traves de Google Maps</description>
   </item>
 </channel>
 

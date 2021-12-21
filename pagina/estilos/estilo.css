@@ -1,0 +1,123 @@
+body {
+height: 100%;
+background-image: url(imagenes/fondos_colores.png);
+    
+}
+footer {
+    text-align:center;
+    margin:auto;
+    padding-top: 10px;
+    align-content: center;
+    clear:both;
+    color: aliceblue;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(119, 163, 99, 0.99);
+}
+
+#menu {
+    background-color: rgba(119, 163, 99, 0.9);
+	float: right;
+	width: 20%;
+	color: #666;
+	margin-top: 12px;
+	position: fixed;
+}
+#contenido {
+    align-content: center;
+    margin:auto;
+    clear: left;
+	font-family: sans-serif;
+	font-size: 16px;
+	float: left;
+	padding: 4.5%;
+	width: 65%;
+	margin-top: 15px;
+	margin-left: 25%;
+    background-color: rgba(119, 163, 99, 0.99);
+    padding-bottom: 150px;
+}
+
+#encabezado {
+    background-color: rgba(119, 163, 99, 0.99);
+    background-image: url(/imagenes/call-center.jpg);
+    background-size: cover;
+    width: auto;
+}
+
+.palabras_v {
+    color:greenyellow
+}
+
+.palabras_n {
+    color: #ffe200;
+}
+
+.titulo {
+    font-size: 25px;
+    align-content: center;
+    margin-left: 15px;
+}
+.enlace{
+  color: #000ca2;
+  transition: color .3s;
+    
+}
+
+.enlace:hover {
+     color: #ffd801;
+     font-size: 15px;
+     font-weight: bolder;
+}
+
+
+
+#salto_de_linea {
+    clear: both;
+    height: 100px;
+}
+
+#encabezado_menu {
+    text-align:center;
+    margin:auto;
+    color:aqua;
+    align-content: center;
+}
+
+iframe {
+    width: 90%;
+}
+
+
+
+#horario {
+    background: white;
+    text-align: center;
+   border-collapse: collapse;
+   margin: 0 0 1 0;
+   caption-side: top;
+}
+
+#coliflor {
+    width: 50%;
+    display: block;
+    margin: auto;   
+}
+
+#fresas {
+        width: 50%;
+    display: block;
+    margin: auto; 
+}
+
+#manzanas {
+        width: 50%;
+    display: block;
+    margin: auto; 
+}
+
+#platanaos {
+        width: 50%;
+    display: block;
+    margin: auto; 
+}
